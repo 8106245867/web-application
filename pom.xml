@@ -22,6 +22,14 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
+             < -- sonar integration -- >
+        <properties>         
+     <sonar.organization>81062465867</sonar.organization>
+     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+     <sonar.projectkey></sonar.projectkey>
+     <sonar.login>af324eb74e4b233181bc6ecb3e1001ae59cf2d27</sonar.login>
+                 
+                      
     </properties>
 
     <dependencies>
