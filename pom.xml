@@ -23,15 +23,14 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
              < -- sonar integration -- >
-        <properties>         
-     <sonar.organization>81062465867</sonar.organization>
-     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-     <sonar.projectkey></sonar.projectkey>
-     <sonar.login>af324eb74e4b233181bc6ecb3e1001ae59cf2d27</sonar.login>
-                 
-                      
-    </properties>
+    <properties>
+        <sonar.organization>8106245867</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectkey>voltas</sonar.projectkey>
+        <sonar.login>e550c3ca01ddbb7b0719b759bdb20cafd7cb8c93</sonar.login>
 
+   </properties>
+       
     <dependencies>
         <!-- Spring Boot Web -->
         <dependency>
