@@ -6,7 +6,7 @@
     <groupId>com.syqu</groupId>
     <artifactId>shop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>E-shop N3XT</name>
     <description>E-commerce shop</description>
@@ -23,12 +23,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
              
-          <!--sonar integration-->
-    
-        <sonar.organization>8106245867</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.projectkey>voltas</sonar.projectkey>
-        <sonar.login>e550c3ca01ddbb7b0719b759bdb20cafd7cb8c93</sonar.login>
+         
 
    </properties>
        
